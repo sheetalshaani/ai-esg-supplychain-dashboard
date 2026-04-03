@@ -17,3 +17,17 @@
 ## 📌 Notes
 - Dataset is simulated / sample-based for analysis purposes  
 - Used for demonstrating ESG and supply chain analytics capabilities  
+
+---
+
+## 📌 Project Structure
+
+- BUSINESS_CASE.md → Business problem & impact
+- AI_INSIGHTS.md → AI-generated insights and analysis
+- SAMPLE_DATA_MODEL.md → Conceptual data structure
+
+---
+
+## 👤 Author
+Sheetal Yeole  
+Program Manager | Supply Chain | ESG | AI-enabled Analytics
