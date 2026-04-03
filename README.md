@@ -67,6 +67,10 @@ This analysis helps organizations improve:
 
 ---
 
+## 📊 Presentation
+
+A business presentation summarizing ESG and supply chain analytics framework is included in this repository.
+
 ## 📌 Author
 Sheetal Yeole  
 Program Manager | Supply Chain | Sustainability | AI-enabled Analytics
